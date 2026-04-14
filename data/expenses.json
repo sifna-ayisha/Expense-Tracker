@@ -1,0 +1,26 @@
+[
+  {
+    "id": "40fa4647-0b07-41e7-88b7-be7f99b7e802",
+    "amount": 100,
+    "category": "Food",
+    "date": "2026-04-14",
+    "note": "fish",
+    "createdAt": "2026-04-14T10:27:25.829Z"
+  },
+  {
+    "id": "29ff1639-8194-4084-9c08-c23812f0e2ee",
+    "amount": 250,
+    "category": "Fuel",
+    "date": "2026-04-14",
+    "note": "",
+    "createdAt": "2026-04-14T10:27:50.135Z"
+  },
+  {
+    "id": "9b5af2c2-1115-477c-8005-a84200f2fea3",
+    "amount": 250,
+    "category": "Fuel",
+    "date": "2026-04-14",
+    "note": "fuel",
+    "createdAt": "2026-04-14T10:28:29.595Z"
+  }
+]
